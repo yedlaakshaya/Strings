@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/yedlaakshaya/Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/yedlaakshaya/Arrays/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/yedlaakshaya/Arrays/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yedlaakshaya/Strings/tree/master/0242-valid-anagram) |
 ## Binary Search
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yedlaakshaya/Arrays/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/yedlaakshaya/Arrays/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/yedlaakshaya/Strings/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yedlaakshaya/Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yedlaakshaya/Strings/tree/master/0014-longest-common-prefix) |
+| [0242-valid-anagram](https://github.com/yedlaakshaya/Strings/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/yedlaakshaya/Arrays/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
 |  |
