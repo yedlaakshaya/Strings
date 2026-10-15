@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/yedlaakshaya/Arrays/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/yedlaakshaya/Arrays/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yedlaakshaya/Arrays/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yedlaakshaya/Arrays/tree/master/0283-move-zeroes) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yedlaakshaya/Arrays/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yedlaakshaya/Strings/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/yedlaakshaya/Strings/tree/master/0242-valid-anagram) |
 | [1768-merge-strings-alternately](https://github.com/yedlaakshaya/Arrays/tree/master/1768-merge-strings-alternately) |
 ## Sliding Window
@@ -87,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yedlaakshaya/Strings/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yedlaakshaya/Strings/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
