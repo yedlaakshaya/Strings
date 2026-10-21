@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yedlaakshaya/Arrays/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yedlaakshaya/Arrays/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yedlaakshaya/Arrays/tree/master/0283-move-zeroes) |
+| [0876-middle-of-the-linked-list](https://github.com/yedlaakshaya/Strings/tree/master/0876-middle-of-the-linked-list) |
 | [1768-merge-strings-alternately](https://github.com/yedlaakshaya/Arrays/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
@@ -121,4 +122,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/yedlaakshaya/Strings/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/yedlaakshaya/Strings/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
